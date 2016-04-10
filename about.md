@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Informácie o téme literatúra!
 
-### More Information
+### Viac informácií
 
-A place to include any other types of information that you'd like to include about yourself.
+-Literárne obdobia
+-Žánre
+-Vývoj literatúry
+-Známy svetový a národný spisovatelia
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
