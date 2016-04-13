@@ -2,9 +2,17 @@
 layout: post
 title: Nami- seminar paper
 ---
-Úloha na Nami 
-
-Spracovanie úlohy, podľa zadania, ktoré si vyberiem.
-
 <iframe src="http://www.w3schools.com/css/default.asp" width="400" height="250">
 </iframe>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Úloha na Nami </title>
+</head>
+<body>
+<p>Spracovanie úlohy, podľa zadania, ktoré si vyberiem.</p>
+  <iframe src="http://www.w3schools.com/css/default.asp" width="400" height="250">
+</iframe>
+</body>
+</html>
