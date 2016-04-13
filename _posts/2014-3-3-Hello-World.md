@@ -2,7 +2,6 @@
 layout: post
 title: Nami- seminar paper
 ---
-<!DOCTYPE html>
 <html>
   <head>
     <title>Úloha na Nami </title>
